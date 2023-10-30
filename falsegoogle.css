@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    margin-top: 230px;
+    font-size: 90px;
+}
+
+h1 span:nth-child(1) {
+    color: rgba(170, 105, 244, 0.786);
+}
+h1 span:nth-child(2) {
+    color: rgba(239, 37, 60, 0.786);
+}
+h1 span:nth-child(3) {
+    color: rgba(47, 231, 99, 0.786);
+}
+h1 span:nth-child(4) {
+    color: rgba(170, 105, 244, 0.786);
+}
+h1 span:nth-child(5) {
+    color: rgba(83, 71, 3, 0.786);
+}
+h1 span:nth-child(6) {
+    color: rgba(239, 88, 38, 0.786);
+}
+.search-bar {
+    width: 500px;
+}
